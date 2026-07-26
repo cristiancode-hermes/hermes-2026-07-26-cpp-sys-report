@@ -1,0 +1,9 @@
+build/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+compile_commands.json
+.env
